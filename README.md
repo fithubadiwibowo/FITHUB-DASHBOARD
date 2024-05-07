@@ -1,14 +1,15 @@
 # FITHUB-DASHBOARD
 
-This is a test automation framework designed using Playwright and JavaScript. The framework aims to provide a structured and maintainable approach to automated testing of API applications. The Example for this project is to test API for https://reqres.in.
+This is a test automation framework designed using Playwright and JavaScript. The framework aims to provide a structured and maintainable approach to automated testing of WEB, MWEB & API applications. The Example for this project is to test WEB.
 
-Features Utilizes Playwright, a powerful automation library for web and api testing. Supports writing tests in JavaScript. Easily extensible and customizable for various testing needs.
+Features Utilizes Playwright, a powerful automation library for web, mweb and api testing. Supports writing tests in JavaScript. Easily extensible and customizable for various testing needs.
 
 Getting started Clone repository
 
 Open your terminal or command prompt.
-Navigate to the directory where you want to clone the repository. You can use the cd command to change directories. For example: $ cd Documents
-Once you're in the desired directory, use the git clone command followed by the repository URL "git clone https://github.com/fithubadiwibowo/FITHUB-DASHBOARD.git"
+Navigate to the directory where you want to clone the repository. You can use the cd command to change directories. 
+For example: $ cd Documents
+Once you're in the desired directory, use the git clone command followed by the repository URL "git clone https://github.com/fithubadiwibowo/FITHUB-DASHBOARD"
 Press Enter to execute the command.
 Once the clone is finished, you'll see a message indicating that the clone was successful.
 
